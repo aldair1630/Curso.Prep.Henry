@@ -1,5 +1,8 @@
 * {
+    display: center;
     position: center;
+    justify-content: center;
+    align-items: center;
 }
 
 body {
@@ -25,4 +28,10 @@ img {
 #spanId {
     font-size: 18px;
     margin: 50px;
+}
+
+h1,
+h3,
+h4 {
+    text-align: center;
 }
