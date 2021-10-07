@@ -1,3 +1,11 @@
+* {
+    position: center;
+}
+
+body {
+    background-image: url(../img/Alda.jpg);
+}
+
 h1 {
     color: red;
 }
