@@ -3,36 +3,106 @@ Lección 3: Tarea de posicionamiento con CSS. Todo el trabajo debe hacerse en es
 archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 */
 
+
 /* Ejercicio 1: Centrar el texto en un span */
 
-/* Arrancaremos este ejercicio por vos: */
-#ejercicioUno {
-
+span {
+    display: block;
+    text-align: center;
 }
+
+
+/* Arrancaremos este ejercicio por vos: */
+
+#ejercicioUno {}
 
 
 /* Ejercicio 2: Posicionar el header */
 
+
 /* Acá va tu código */
 
+#ejercicioDos {
+    display: none;
+}
 
 
 /* Ejercicio 3: */
 
+
 /* Acá va tu código */
 
+#ejercicioTres {
+    position: inline;
+    margin-top: 100px;
+    margin-left: 200px;
+}
 
 
 /* Ejercicio 4: */
 
+
 /* Acá va tu código */
 
+#ejercicioCuatro {
+    position: fixed;
+    top: 0px;
+}
 
 
 /* Ejercicio 5: */
 
+
 /* Acá va tu código */
 
+#ejercicioCinco {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 
 
 /* Ejercicio 6. */
+
+
+/* Acá va tu código */
+
+#ejercicioCinco {
+    flex-direction: row-reverse;
+}
+
+
+/* Ejercicio 7: */
+
+
+/* Acá va tu código */
+
+#ejercicioSiete {
+    display: flex;
+}
+
+#elementoUno {
+    display: flex;
+}
+
+#elementoDos {
+    display: flex;
+    margin-top: 100px;
+}
+
+#elementoTres {
+    display: flex;
+    margin-top: 200px;
+}
+
+#elementoCuatro {
+    display: flex;
+    margin-top: 300px;
+}
+
+#ejercicioSiete span {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    font-size: 5em;
+}
