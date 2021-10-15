@@ -6,11 +6,20 @@
 }
 
 body {
-    background-image: url(../img/Alda.jpg);
+    background-image: url(../img/logo.png);
+    position: center;
 }
 
 h1 {
     color: red;
+}
+
+h3 {
+    color: white;
+}
+
+h4 {
+    color: white;
 }
 
 img {
@@ -18,6 +27,7 @@ img {
 }
 
 #thirdDiv {
+    position: relative, center;
     width: 600px;
     height: 40%;
     background-color: cyan;
@@ -26,8 +36,15 @@ img {
 }
 
 #spanId {
+    position: absolute;
+    text-align: center;
     font-size: 18px;
     margin: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: red;
 }
 
 h1,
