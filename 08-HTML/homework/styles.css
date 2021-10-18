@@ -1,13 +1,29 @@
-* {
-    display: center;
-    position: center;
-    justify-content: center;
-    align-items: center;
+/*h1 {
+    color: red;
 }
+
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    height: 500px;
+    width: 600px;
+    background-color: aqua;
+    padding: 50px;
+    border: 10px solid oldlace;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+
+
+*/
 
 body {
     background-image: url(../img/logo.png);
-    position: center;
 }
 
 h1 {
@@ -26,29 +42,28 @@ img {
     width: 400px;
 }
 
+h1,
+h3,
+h4 {
+    text-align: center;
+}
+
 #thirdDiv {
-    position: relative, center;
-    width: 600px;
-    height: 40%;
-    background-color: cyan;
+    width: 500px;
+    height: 700px;
     padding: 50px;
-    border-color: oldlace;
+    background-color: cyan;
+    border: 10px solid oldlace;
 }
 
 #spanId {
     position: absolute;
-    text-align: center;
     font-size: 18px;
     margin: 50px;
+    padding: 10px;
 }
 
 a {
     text-decoration: none;
     color: red;
-}
-
-h1,
-h3,
-h4 {
-    text-align: center;
 }

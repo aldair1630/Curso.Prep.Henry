@@ -128,8 +128,9 @@ span {
     color: #191c32;
 }
 
-.about p {
+.about li {
     margin-bottom: 1em;
+    padding: 3px;
 }
 
 .leer-cv:hover {
