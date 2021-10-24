@@ -1,4 +1,4 @@
-<img src="./Pagina%20web.png
+<img src="./Pagina%20web.png"/>
 
 # Homework: HTML
 
