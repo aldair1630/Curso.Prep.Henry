@@ -1,3 +1,5 @@
+<img src="https://github.com/aldair1630/Curso.Prep.Henry/blob/51adb043f8865b824b39205aada71e6c804e2f84/08-HTML/homework/Pagina%20web.png?raw=true"/>
+
 # Homework: HTML
 
 Ahora que nos ha visto crear un archivo HTML y una hoja de estilo externa, crearas una propia.
