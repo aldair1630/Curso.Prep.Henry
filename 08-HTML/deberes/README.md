@@ -1,4 +1,4 @@
-https://github.com/aldair1630/Curso.Prep.Henry/blob/master/08-HTML/homework/Pagina%20web.png
+<img src="https://github.com/aldair1630/Curso.Prep.Henry/blob/master/08-HTML/homework/Pagina%20web.png>
 
 # Homework: HTML
 
